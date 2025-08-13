@@ -1,4 +1,4 @@
-list = [1,2,3,4,5]
+list = [1,22,3,4,5]
 
 for i in list:
     print("Current item:", i)
